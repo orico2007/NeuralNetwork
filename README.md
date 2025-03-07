@@ -16,11 +16,8 @@ pip install -r requirements.txt
 You will need numpy for the neural network computations and pickle for saving/loading the model weights and biases.
 
 requirements.txt
-text
-Copy
-Edit
-numpy
-Installing EMNIST Dataset
+
+## Installing EMNIST Dataset
 You can download the EMNIST dataset from the official repository: EMNIST dataset.
 
 Here are the steps to download and set up the dataset:
